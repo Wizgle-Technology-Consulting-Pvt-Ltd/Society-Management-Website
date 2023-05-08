@@ -31036,7 +31036,7 @@ h6,
 }
 
 .nk-compare-col {
-    padding: 1.5rem 1rem !important
+    padding: 1rem 1rem !important
 }
 
 .nk-compare-col.empty-col {
@@ -31057,7 +31057,7 @@ h6,
 
 .nk-compare-col .lead {
     white-space: nowrap;
-    font-size: 18px;
+    font-size: 16px;
     color: #64728f
 }
 
