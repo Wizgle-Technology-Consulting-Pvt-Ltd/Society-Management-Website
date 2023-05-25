@@ -9554,14 +9554,14 @@ fieldset:disabled .btn {
 }
 
 .text-bg-blue-500-soft {
-    color: #3f53d8 !important;
+    color: #003c70 !important;
     background-color: #e8eafa !important;
     border-color: transparent
 }
 
 .text-bg-blue-500-dark {
     color: #fff !important;
-    background-color: #3f53d8 !important;
+    background-color: #003c70 !important;
     border-color: transparent
 }
 
@@ -24888,7 +24888,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos],
     bottom: 0;
     z-index: -1;
     position: absolute;
-    background: #3f53d8
+    background: #003c70
 }
 
 @media(max-width: 991.98px) {
@@ -27680,15 +27680,15 @@ h6,
 }
 
 .bg-blue-500 {
-    background-color: #3f53d8 !important
+    background-color: #003c70 !important
 }
 
 .text-bg-blue-500 {
-    background-color: #3f53d8 !important
+    background-color: #003c70 !important
 }
 
 .bg-primary-gradient {
-    background: linear-gradient(23.01deg, #556ee6 14.9%, #1d3faf 85.1%)
+    background: linear-gradient(23.01deg, #003c70 14.9%, #1d3faf 85.1%)
 }
 
 .bg-primary-gradient-soft {
@@ -28107,12 +28107,12 @@ h6,
 }
 
 .btn-blue-500 {
-    background-color: #3f53d8 !important
+    background-color: #003c70 !important
 }
 
 .btn-outline-blue-500 {
-    color: #3f53d8;
-    border-color: #3f53d8
+    color: #003c70;
+    border-color: #003c70
 }
 
 .nk-btn-group {
@@ -29364,7 +29364,7 @@ h6,
 }
 
 .text-blue-500 {
-    color: #3f53d8 !important
+    color: #003c70 !important
 }
 
 .overline-title {
@@ -30196,7 +30196,7 @@ h6,
 
 .nk-testimonial-card-s1 .nk-testimonial-content .nk-testimonial-icon .icon {
     font-size: 5.625rem;
-    background: linear-gradient(180deg, #3f53d8 0%, #8c9bff 100%);
+    background: linear-gradient(180deg, #003c70 0%, #8c9bff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(0, 0, 0, 0)
 }
@@ -30255,7 +30255,7 @@ h6,
 
 .nk-testimonial-card-s3 .nk-testimonial-icon .icon {
     font-size: 5.25rem;
-    background: linear-gradient(180deg, #3f53d8 0%, #8c9bff 100%);
+    background: linear-gradient(180deg, #003c70 0%, #8c9bff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: rgba(0, 0, 0, 0)
 }
@@ -32679,7 +32679,7 @@ h6,
 }
 
 .nk-sticky-badge-home {
-    background-color: #556ee6
+    background-color: #003c70
 }
 
 .nk-sticky-badge-purchase {
