@@ -24208,8 +24208,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos],
 
 .logo-img {
     height: 100%;
-    max-width: 60px;
-    border-radius: 10px;
+    max-width: 130px;
 }
 
 .logo-img:not(:first-child) {
