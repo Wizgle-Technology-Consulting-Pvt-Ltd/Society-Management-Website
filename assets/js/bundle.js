@@ -5857,7 +5857,7 @@ function(e, t) { "object" == typeof exports && "undefined" != typeof module ? mo
  */
 var NioApp = function(e, t) {
     "use strict";
-    var s = { AppInfo: { name: "NioApp", version: "1.0.0", author: "Wizgle" }, Package: { name: "Our Smart Society", version: "1.0" } };
+    var s = { AppInfo: { name: "NioApp", version: "1.0.0", author: "Wizgle" }, Package: { name: "Our Smart Housing", version: "1.0" } };
     return s.docReady = function(e) { document.addEventListener("DOMContentLoaded", e, !1) }, s.winLoad = function(e) { window.addEventListener("load", e, !1) }, s.onResize = function(e, t) {
         (t = void 0 === t ? window : t).addEventListener("resize", e)
     }, s
